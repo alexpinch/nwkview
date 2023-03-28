@@ -1,4 +1,4 @@
-# Alex Pinch, adapted from ChatGPT
+# Alex Pinch
 # Last updated Feb. 1st 2023
 
 library(shiny)
