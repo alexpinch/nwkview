@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Alex Pinch, adapted from ChatGPT
+# Alex Pinch
 # Last updated Feb. 1st 2023
 
 # This script generates a Newick tree with a specified number of nodes
